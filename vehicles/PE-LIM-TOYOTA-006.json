@@ -1,0 +1,21 @@
+{
+  "id_modelo": "PE-LIM-TOYOTA-006",
+  "marca": "Toyota",
+  "modelo": "Yaris Cross Hybrid",
+  "segmento": "SUV / crossover",
+  "propulsion": "Hibrido HEV",
+  "precio_web_usd_desde": 28590,
+  "moneda_precio_web": "USD",
+  "tipo_precio": "WEB_REFERENCIAL_NO_COTIZACION",
+  "url_fuente": "https://e.toyotaperu.com.pe/inventory?locale=es-pe",
+  "fuente_id": "C01",
+  "fecha_revision": "2026-10-08",
+  "marca_autorizada_concesionaria": false,
+  "inventario_verificado": false,
+  "activo_para_oferta": false,
+  "tipo_disponibilidad": "SIN_VERIFICAR",
+  "version_exacta": null,
+  "vin": null,
+  "equipamiento_verificado": false,
+  "precio_final_cotizado_pen": null
+}

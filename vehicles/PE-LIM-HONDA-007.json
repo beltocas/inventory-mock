@@ -1,0 +1,21 @@
+{
+  "id_modelo": "PE-LIM-HONDA-007",
+  "marca": "Honda",
+  "modelo": "CR-V Hybrid",
+  "segmento": "SUV / familiar",
+  "propulsion": "Hibrido HEV",
+  "precio_web_usd_desde": 49990,
+  "moneda_precio_web": "USD",
+  "tipo_precio": "WEB_REFERENCIAL_NO_COTIZACION",
+  "url_fuente": "https://autos.honda.com.pe/vehiculos/",
+  "fuente_id": "C14",
+  "fecha_revision": "2026-10-08",
+  "marca_autorizada_concesionaria": false,
+  "inventario_verificado": false,
+  "activo_para_oferta": false,
+  "tipo_disponibilidad": "SIN_VERIFICAR",
+  "version_exacta": null,
+  "vin": null,
+  "equipamiento_verificado": false,
+  "precio_final_cotizado_pen": null
+}
